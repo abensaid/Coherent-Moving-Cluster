@@ -3,10 +3,10 @@
 #### Run Test_Driver.py for testing.
 
 #### Inputs:
-###### A set of trajectories
-###### An integer m
-###### A lifetime k
-###### A distance threshold e
+###### 1- A set of trajectories
+###### 2- An integer m
+###### 3- A lifetime k
+###### 4- A distance threshold e
 
 #### Output:
 ###### Set of groups of objects travelling together with respect to parameters m and e for at least k consectutive timestamps
