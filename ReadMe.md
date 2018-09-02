@@ -1,7 +1,7 @@
 ### This is a Python implementation of Coherent Moving Cluster algorithm.
-### The origin algorithm is implemented By @se0kjun in Java
+### The origin algorithm is implemented By @se0kjun in Java.
 ### Run Test_Driver.py for testing.
-### Data (csv file) is provided in Ressource folder
+### Data (csv file) is provided in Ressource folder.
 ### Headings:
 ##### obj_id:object id
 ##### t: timestamp
